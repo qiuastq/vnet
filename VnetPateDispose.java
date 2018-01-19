@@ -33,5 +33,4 @@ public interface VnetPateDispose {
 	 * @return pateList
 	 */
 	public ArrayList<PateDispose> getPagePate(int pageNo,int pageSize);
-
 }
